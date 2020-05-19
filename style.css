@@ -1,0 +1,92 @@
+#body {
+  margin: 0 auto;
+  max-width: 90%;
+  background-color: cadetblue;
+  background-image: url(achtergrond2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom right;
+
+  color: darkblue;
+
+}
+
+#header {
+  background-color: yellow;
+}
+
+
+img{
+    margin-top: 50px;
+    width: 50vw;
+    border-radius: 1em;
+    float: left;
+}
+
+figcaption{
+    width: 50vw;
+    text-align: center;
+}
+
+
+#story {
+
+.villager border-left: 3px solid black;
+  font-family: serif;
+  word-spacing: 15px;
+}
+q{
+    display: block;
+    width: 50%;
+    background-color: #black;
+    padding-left: 30px;
+    margin: 80px auto;
+    font-size: 160%;
+    font-style: italic;
+}
+
+.farmer{
+    border-left: 3px solid rgb(107, 184, 62);
+}
+
+.villagers{
+
+    border-left: 3px solid rgb(228, 109, 12);
+}
+
+.good, .bad{
+text-transform: capitalize;
+}
+
+.bad{
+    color:red;
+}
+
+.good{
+    color: green;
+}
+
+table, th, td {
+    border: 1px solid #f4f4f4;
+    text-align: left;
+    font-size: 1em;
+    padding: 0.4em;
+}
+
+table{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+tr:nth-child(even){
+background-color: #f4f4f4;
+}
+
+#Conclusion {
+
+}
+
+#footer {
+
+}
